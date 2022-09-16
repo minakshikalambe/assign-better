@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My first Bolg",
+      "body": "Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new.",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party",
+      "body": "Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new.",
+      "author": "lenin",
+      "id": "2"
+    },
+    {
+        "title": "Opening Party!!!!!!",
+        "body": "Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new.",
+        "author": "lenin",
+        "id": "3"
+      },
+    {
+      "title": "bvbvb",
+      "body": "vcvbvb",
+      "author": "",
+      "id": "FlTjbdM"
+    },
+    {
+      "title": "aahsha",
+      "body": " dnsbdns",
+      "author": "",
+      "id": "EfX65Zx"
+    }
+  ]
+}
